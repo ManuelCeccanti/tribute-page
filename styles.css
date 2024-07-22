@@ -1,0 +1,60 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:  	#ffdead;
+    text-align: center; 
+}
+
+#main {
+    background:  	#ffdead;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 100%;
+}
+
+#title {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+#img-div {
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+#image {
+    display: block;       
+    max-width: 100%;      
+    height: auto;        
+    margin: 0 auto;       
+    border-radius: 10px;  
+}
+
+#img-caption {
+    margin-top: 10px;
+    font-style: italic;
+    color: #555;
+}
+
+#tribute-info {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+#tribute-link {
+    color: #1e90ff;
+    text-decoration: none;
+}
+
+#tribute-link:hover {
+    text-decoration: underline;
+}
