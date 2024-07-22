@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tributo a Guglielmo Marconi</title>
+    <link rel="stylesheet" href="stile.css">
+</head>
+<body>
+    <main id="main">
+        <h1 id="title">Tributo a Guglielmo Marconi</h1>
+        <div id="img-div">
+            <img id="image" src="https://cdn.studenti.stbm.it/images/2017/07/10/guglielmo-marconi_600x400.jpeg" alt="Guglielmo Marconi">
+            <div id="img-caption">Guglielmo Marconi e la sua invenzione: la radio</div>
+        </div>
+        <div id="tribute-info">
+            Guglielmo Marconi è stato un inventore e ingegnere elettrico italiano,<br>
+            noto per il suo sviluppo della telegrafia senza fili,<br>
+            che portò all'invenzione della radio.<br>
+            Marconi ha ricevuto il Premio Nobel per la Fisica nel 1909<br>
+            in riconoscimento dei suoi contributi nel campo delle comunicazioni senza fili.
+        </div>
+        <a href="https://www.scienzainrete.it/italia150/guglielmo-marconi" id="tribute-link" target="_blank">Guglielmo Marconi, una biografia.</a>
+    </main>
+</body>
+</html>
